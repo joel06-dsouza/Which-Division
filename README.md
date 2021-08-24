@@ -16,13 +16,13 @@ Constraints
 1≤T≤1000
 1000≤R≤4500
 
-Sample Input 1 
+Sample Input 1 -
 3
 1500
 4000
 1900
 
-Sample Output 1 
+Sample Output 1 -
 3
 1
 2
